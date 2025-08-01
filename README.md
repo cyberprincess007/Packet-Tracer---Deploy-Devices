@@ -2,7 +2,21 @@
 # Packet Tracer - Deploy Devices
 
 ## Objective
-Deploy multiple devices in Cisco Packet Tracer using various methods.
+Deploy multiple devices in Cisco Packet Tracer using various methods. In this Packet Tracer – Deploy Devices assignment, deploying devices simply means placing network devices (like routers, switches, etc.) into the Packet Tracer workspace so you can use them to build a network.
+
+It’s basically the first step before configuring them — you’re taking them from the list of available devices in Packet Tracer and putting them on your virtual “desk” so you can connect and work with them.
+
+In your specific assignment, deploying devices involved:
+
+Finding a device in the Device-Specific Selection Box (e.g., 2911 router, 1941 router).
+
+Adding it to the workspace (drag-and-drop or click-to-place).
+
+Placing multiple copies of the same type of device more efficiently (using keyboard shortcuts).
+
+Copying existing devices that were already placed.
+
+It doesn’t mean configuring or turning them on — it’s just setting them in place in your network diagram so you can work with them later.
 
 ## Tools Used
 - Cisco Packet Tracer (latest version)
